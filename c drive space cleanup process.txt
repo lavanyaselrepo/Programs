@@ -1,0 +1,41 @@
+C drive space cleanup process
+------------
+
+Need to do this only 
+Temp folders deletion (Temp & %temp%, prefetch)
+Path: Temp - C:\Windows\Temp
+Path: %Temp% - C:\Users\<username>\AppData\Local\Temp
+Path: Prefetch - C:\Windows\Prefetch
+Step 4: Validation of the C:\users\<username>\OneDrive – Accenture
+Path:  C:\users\<username>\OneDrive – Accenture.
+If OneDrive occupies more Space, the same as the Complete one drive storage.
+You need to free up space by on the local disk by Right click on the One Drive – Accenture Folder 🡪 Free Up Space
+Step 5: Browser data deletion
+Open the chrome browser content settings by using the link Chrome://settings/content/all🡪 delete all data
+
+Open the Edge browser content settings by using the link edge://settings/privacy/cookies/AllCookies 🡪 delete all data
+
+Step 6: Disk cleanup
+Search for the disk cleanup  🡪 Run as administrator.
+Select the options, uncheck the downloads folder if present.
+
+Step 7: Outlook C:\users\<username>\AppData\Local\Microsoft\Outlook
+Path: C:\users\<username>\AppData\Local\Microsoft\Outlook
+Change the Mailbox display size by choosing the option file 🡪Account settings 🡪 Change 🡪 keep 6 months or 1-year mails only.
+
+If the employee does not set the Auto Online archive Policy. Inform the employee and set the Auto archive based on the user confirmation.
+Right Click on the mailbox name 🡪 Data File Properties 🡪 Policy 🡪 Online Archive
+
+-----
+Complete your Sustainability Priority Learning Courses
+
+Atlas
+----- 
+web application - support work
+
+automation eng - defects -dev team fix - 
+
+fw - automation fw
+
+team -dev
+
